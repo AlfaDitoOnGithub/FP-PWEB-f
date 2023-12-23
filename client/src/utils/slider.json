@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Pak Dar",
+    "price": "1.500.000",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Siska HomeStay",
+    "price": "1.200.000",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Jangin Kost",
+    "price": "1.700.000",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Bagong Kost",
+    "price": "1.100.000",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Puri Ayu",
+    "price": "980.000",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Kinan Kost",
+    "price": "999.999",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "image": "./r3.png"
+  }
+]
