@@ -25,6 +25,7 @@ data residency ada di server/data/residency.json, bisa ubah itu sesuai keinginan
 
 
 Package.json list
+```
 {
   "name": "realestate",
   "private": true,
@@ -70,4 +71,6 @@ Package.json list
     "vite": "^4.2.0"
   }
 }
+```
+
 
